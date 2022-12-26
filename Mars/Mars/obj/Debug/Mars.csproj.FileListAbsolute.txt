@@ -1,0 +1,14 @@
+C:\Users\mitke\source\repos\Mars\Mars\obj\Debug\Mars.csproj.AssemblyReference.cache
+C:\Users\mitke\source\repos\Mars\Mars\obj\Debug\Mars.csproj.SuggestedBindingRedirects.cache
+C:\Users\mitke\source\repos\Mars\Mars\obj\Debug\Mars.MainForm.resources
+C:\Users\mitke\source\repos\Mars\Mars\obj\Debug\Mars.Properties.Resources.resources
+C:\Users\mitke\source\repos\Mars\Mars\obj\Debug\Mars.csproj.GenerateResource.cache
+C:\Users\mitke\source\repos\Mars\Mars\obj\Debug\Mars.csproj.CoreCompileInputs.cache
+C:\Users\mitke\source\repos\Mars\Mars\bin\Debug\Mars.exe.config
+C:\Users\mitke\source\repos\Mars\Mars\bin\Debug\Mars.exe
+C:\Users\mitke\source\repos\Mars\Mars\bin\Debug\Mars.pdb
+C:\Users\mitke\source\repos\Mars\Mars\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mitke\source\repos\Mars\Mars\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mitke\source\repos\Mars\Mars\obj\Debug\Mars.csproj.CopyComplete
+C:\Users\mitke\source\repos\Mars\Mars\obj\Debug\Mars.exe
+C:\Users\mitke\source\repos\Mars\Mars\obj\Debug\Mars.pdb
